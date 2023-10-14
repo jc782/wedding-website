@@ -1,0 +1,79 @@
+<main>
+    <div class="image image3"></div>
+
+
+    <section id="when" class="section light">
+        <h1 class="section__heading">The Wedding</h1>
+        <section class="section__split">
+            <div>
+                <p class="section__subheading">When</p>
+                <p class="section__text--bold">
+                    {{ .Params.when }}
+                </p>
+            </div>
+            <div>
+                <p class="section__subheading">Where</p>
+                <p class="section__text--bold">
+                    {{ .Params.where.first }}
+                </p>
+                <p>
+                    {{ .Params.where.second }}
+                </p>
+            </div>
+        </section>
+    </section>
+
+    <div class="image image2" style="background-position: center;"></div>
+
+
+    <section id="rsvp" class="section light">
+        <h1 class="section__heading">RSVP</h1>
+        
+        <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdibcjcOlz1sQvcrFwru3qGK9SMsMnSLtkMN_zKVVGAGLhx0g/formResponse" method="post">
+            <label>Name</label>
+            <input type="text" placeholder="Name (s)", class="form-input", name="entry.1245462958" required>
+        
+            <label>Email Address</label>
+            <input type="email" placeholder="Email address", class="form-input", name="entry.1696837013" required>
+          
+            <label>Dietary Requirements</label>
+            <input type="text" placeholder="Requirements", class="form-input", name="entry.2063318546">
+          
+            <button type="submit", class="submit">Send</button>
+      </form>
+    </section>
+
+
+
+    <section id="order-of-events" class="section light">
+        
+        {{ $t := .Site.GetPage "/section/order-of-events" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <div class="image image1" style="background-position: center;"></div>
+
+    <section id="travel-accommodation" class="section light">
+        
+        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <section id="more" class="section light" style="text-align:center;">
+        <p style="margin-bottom:1em;">We are looking forward to sharing this special day with you</p>
+        <p style="margin-bottom:1em;">In the meantime, if you have any questions you can contact us both <a
+                href="mailto:joshcarr3007@gmail.com">here</a></p>
+    </section>
+
+    <div class="scroll-top">
+        <a class="scroll-top__button" href="#top">
+            {{ partial "svgs/scroll-up.svg" . }}
+        </a>
+    </div>
+</main>
