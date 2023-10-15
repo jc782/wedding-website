@@ -148,14 +148,14 @@ html {
   height: 80px;
   cursor: pointer;
   transition: all .5s ease-in-out;
-  background-color: var(--background-col);
+  background-color: var(--text-col);
   border-radius: 50%;
 }
 
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--background-col);
+  background: var(--accent-col);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -166,7 +166,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--background-col);
+  background: var(--text-col);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
