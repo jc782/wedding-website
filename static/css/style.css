@@ -11,9 +11,8 @@
 body {
   background-color: var(--background-col);
   font-family: var(--main-font);
-
   position: absolute;
-  min-width: 100vw;
+  min-width: 100%;
 }
 
 /* Needed for scrolling to sections from nav links */
