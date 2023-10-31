@@ -4,30 +4,30 @@ title: "Order of Events"
 ---
 
 ## 9am - Pre Wedding Park Run
-Everyone welcome to Alton Water Parkrun.
+Everyone welcome to Alton Water Parkrun for the biggest race of the year. 
 
 ## 3:30pm - Arrival
 
-At St James' Church, Nayland. Parking available tbc.
+Nayland, Suffolk. Parking available tbc. Once you have arrived everything within Nayland is in walking distance. 
 
 ## 4pm - Ceremony
 
-Inside the church
+At St James' Church, Nayland. 
 
-## 5:00pm - Reception
+## ~5:00pm - Reception
 
-Walk from the Church to Cambridge House, where we will hold our reception.
+Walk from the Church to Cambridge House (this is also in Nayland, confusingly), where we will hold our reception. Drinks and canapes.
 
-## 6pm - Ceilidh
+## ~6pm - Ceilidh
 
-Everyone loves a ceilidh
+Everyone loves a ceilidh and the Brandon Ceilidh band will be on hand to get everyone active. Perhaps unusually this will be before dinner, what better way to work up an appetite though. 
 
-## 7:30pm - Dinner
+## ~7:30pm - Dinner
 
-A reshuffle may be required
+Please let us know any dietary requirements.
 
-## 9pm - Disco
+## ~9pm - Disco
 
-A reshuffle may be required
+Post dinner we have live music from the MP3s 
 
-## 11pm - Wrap up
+## ~11pm - End of play
