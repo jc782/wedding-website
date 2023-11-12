@@ -30,14 +30,16 @@
         <h1 class="section__heading">RSVP</h1>
         
         <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdibcjcOlz1sQvcrFwru3qGK9SMsMnSLtkMN_zKVVGAGLhx0g/formResponse" method="post">
-            <label>Name</label>
-            <input type="text" placeholder="Name (s)", class="form-input", name="entry.1245462958" required>
-        
-            <label>Email Address</label>
+            <label>Names (of all those in your party)</label>
+            <textarea id="text", class="form-input", placeholder="Names" name="entry.1245462958" rows="1"></textarea>
+            
+            <label>Email address of main contact</label>
             <input type="email" placeholder="Email address", class="form-input", name="entry.1696837013" required>
           
-            <label>Dietary Requirements</label>
-            <input type="text" placeholder="Requirements", class="form-input", name="entry.2063318546">
+            <label>Dietary requirements for each person and anything else we should know</label>
+            <textarea id="text", class="form-input", placeholder="Dietary Requirements" name="entry.2063318546" rows="5"></textarea>
+            <!-- <input type="text" placeholder="Requirements", class="form-input", name="entry.2063318546"> -->
+
           
             <button type="submit", class="submit">Send</button>
       </form>

@@ -3,7 +3,7 @@ draft: false
 title: "Order of Events"
 ---
 
-## 9am - Pre Wedding Park Run
+## 9am - Pre Wedding Park Run (Optional)
 Everyone welcome at Alton Water Parkrun  
 
 ## 3:30pm - Guests Arrive
