@@ -3,5 +3,4 @@ draft: false
 title: "Accommodation"
 ---
 We recommend staying in Colchester for those coming from London (easiest trains and closest to Nayland)
-Those coming from other directions (Cambridge) might also check out what Sudbury has to offer. 
-
+If you are travelling from Cambridge then Sudbury is en-route and may make more sense. 

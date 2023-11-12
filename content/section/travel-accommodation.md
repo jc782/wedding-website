@@ -7,7 +7,7 @@ title: "Travel"
 <br>
 The take-home messages are that there is limited accommodation available in Nayland. 
 
-Colchester or Sudbury are closest. 
+Colchester or Sudbury are closest and are where we would recommend looking. 
 
-PThere is quite a lot of street parking in Nayland, we are also investigating some other parking options. 
+There is quite a lot of street parking in Nayland.
 
