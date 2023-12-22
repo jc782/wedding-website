@@ -8,9 +8,7 @@ title: "Travel Advice"
 ## Ceremony Address
 St James' Church, Nayland
 
-## Reception Address
-Cambridge House, 
-20 Stoke Road,
+## Reception
 Nayland,
 Suffolk,
 CO6 4JD
